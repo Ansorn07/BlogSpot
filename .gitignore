@@ -1,0 +1,17 @@
+# Node
+node_modules
+.env
+frontend.env
+backend.gitignore
+frontend.gitignore
+
+# Logs
+logs
+*.log
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
